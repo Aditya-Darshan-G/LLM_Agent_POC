@@ -1,3 +1,5 @@
+Deployed on Hugging Face at https://huggingface.co/spaces/Aditya-Darshan-G/LLM-Agent-POC
+
 ---
 title: Browser LLM Agent (AI Pipe)
 colorFrom: blue
