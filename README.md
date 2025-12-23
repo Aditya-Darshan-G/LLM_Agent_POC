@@ -1,13 +1,5 @@
 Deployed on Hugging Face at https://huggingface.co/spaces/Aditya-Darshan-G/LLM-Agent-POC
 
----
-title: Browser LLM Agent (AI Pipe)
-colorFrom: blue
-colorTo: green
-sdk: static
-pinned: false
----
-
 # Browser LLM Agent (AI Pipe) — Multi-Tool POC
 
 A minimal, hackable **browser-only** agent using **OpenAI-style tool calls** with **AI Pipe** (no backend).
